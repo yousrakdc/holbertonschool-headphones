@@ -1,4 +1,5 @@
 Welcome to the Holberton School Headphones repository! This project is dedicated to providing a comprehensive example of a software project, focusing on code quality, best practices, and collaborative development.
+# Holberton School Headphones
 
 ## Features
 
